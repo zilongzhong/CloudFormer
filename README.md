@@ -1,4 +1,4 @@
 # CloudFormer
 
-PyTorch implementation about CloudFormer for detecting clouds on satellite images (Landsat8 and Sentinel-2)
+PyTorch implementation about CloudFormer for detecting clouds will be released soon.
 
